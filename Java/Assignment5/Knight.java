@@ -1,4 +1,4 @@
-//Assignment %: Knight Class
+//Assignment 5: Knight Class
 //Name: Kyle Suarez
 import java.util.Random;
 import javax.swing.*;
